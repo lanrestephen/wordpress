@@ -45,6 +45,15 @@ I can confirm the instances launched.
 
 <img width="1083" alt="image" src="https://github.com/user-attachments/assets/d9db71f2-1f40-47b1-9689-75f25b0bd3f9">
 
+I tested my instance and installed all the necessary packages and mounted EFS.
+
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/c02f0b2a-afef-4377-b74c-697e9b5a3f23">
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/c481322b-150a-4ff5-9cb5-41b3d8abf44e">
+
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/e8a608f4-456b-476f-915e-14a404f5953b">
+
+
 
 
 
